@@ -1,0 +1,52 @@
+/* Styling untuk body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: 	#F5F5DCA;
+    color: #333;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    color: white;
+
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    font-size: 1em;
+}
+
+/* Section */
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+section img {
+    max-width: 50%;
+    height: 300px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+p {
+    margin-top: 10px;    /* Margin atas */
+    margin-right: 300px;  /* Margin kanan */
+    margin-bottom: 20px; /* Margin bawah */
+    margin-left: 300px;   /* Margin kiri */
+}
+
